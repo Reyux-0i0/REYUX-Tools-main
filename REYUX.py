@@ -1,12 +1,12 @@
-﻿# Copyright (c) REYUX
+# Copyright (c) REYUX
 # See the file 'LICENSE' for copying permission
 # ----------------------------------------------------------------------------------------------------------------------------------------------------------|
 # EN: 
 #     - Do not touch or modify the code below. If there is an error, please contact the owner, but under no circumstances should you touch the code.
 #     - Do not resell this tool, do not credit it to yours.
 # FR: 
-#     - Ne pas toucher ni modifier le code ci-dessous. En cas d'erreur, veuillez contacter le propriÃ©taire, mais en aucun cas vous ne devez toucher au code.
-#     - Ne revendez pas ce tool, ne le crÃ©ditez pas au vÃ´tre.
+#     - Ne pas toucher ni modifier le code ci-dessous. En cas d'erreur, veuillez contacter le propriétaire, mais en aucun cas vous ne devez toucher au code.
+#     - Ne revendez pas ce tool, ne le créditez pas au vôtre.
 
 from Program.Config.Config import *
 from Program.Config.Util import *
@@ -111,97 +111,97 @@ option_back = "Back"
 option_site = "Site"
 option_info = "Info"
 
-option_01_txt = f"{green}[{white}01{green}]{white} " + option_01.ljust(30)[:30].replace("-", " ")
-option_02_txt = f"{green}[{white}02{green}]{white} " + option_02.ljust(30)[:30].replace("-", " ")
-option_03_txt = f"{green}[{white}03{green}]{white} " + option_03.ljust(30)[:30].replace("-", " ")
-option_04_txt = f"{green}[{white}04{green}]{white} " + option_04.ljust(30)[:30].replace("-", " ")
-option_05_txt = f"{green}[{white}05{green}]{white} " + option_05.ljust(30)[:30].replace("-", " ")
-option_06_txt = f"{green}[{white}06{green}]{white} " + option_06.ljust(30)[:30].replace("-", " ")
-option_07_txt = f"{green}[{white}07{green}]{white} " + option_07.ljust(30)[:30].replace("-", " ")
-option_08_txt = f"{green}[{white}08{green}]{white} " + option_08.ljust(30)[:30].replace("-", " ")
-option_09_txt = f"{green}[{white}09{green}]{white} " + option_09.ljust(30)[:30].replace("-", " ")
+option_01_txt = f"{red}[{white}01{red}]{white} " + option_01.ljust(30)[:30].replace("-", " ")
+option_02_txt = f"{red}[{white}02{red}]{white} " + option_02.ljust(30)[:30].replace("-", " ")
+option_03_txt = f"{red}[{white}03{red}]{white} " + option_03.ljust(30)[:30].replace("-", " ")
+option_04_txt = f"{red}[{white}04{red}]{white} " + option_04.ljust(30)[:30].replace("-", " ")
+option_05_txt = f"{red}[{white}05{red}]{white} " + option_05.ljust(30)[:30].replace("-", " ")
+option_06_txt = f"{red}[{white}06{red}]{white} " + option_06.ljust(30)[:30].replace("-", " ")
+option_07_txt = f"{red}[{white}07{red}]{white} " + option_07.ljust(30)[:30].replace("-", " ")
+option_08_txt = f"{red}[{white}08{red}]{white} " + option_08.ljust(30)[:30].replace("-", " ")
+option_09_txt = f"{red}[{white}09{red}]{white} " + option_09.ljust(30)[:30].replace("-", " ")
 
-option_10_txt = f"{green}[{white}10{green}]{white} " + option_10.ljust(30)[:30].replace("-", " ")
-option_11_txt = f"{green}[{white}11{green}]{white} " + option_11.ljust(30)[:30].replace("-", " ")
-option_12_txt = f"{green}[{white}12{green}]{white} " + option_12.ljust(30)[:30].replace("-", " ")
-option_13_txt = f"{green}[{white}13{green}]{white} " + option_13.ljust(30)[:30].replace("-", " ")
-option_14_txt = f"{green}[{white}14{green}]{white} " + option_14.ljust(30)[:30].replace("-", " ")
-option_15_txt = f"{green}[{white}15{green}]{white} " + option_15.ljust(30)[:30].replace("-", " ")
-option_16_txt = f"{green}[{white}16{green}]{white} " + option_16.ljust(30)[:30].replace("-", " ")
-option_17_txt = f"{green}[{white}17{green}]{white} " + option_17.ljust(30)[:30].replace("-", " ")
-option_18_txt = f"{green}[{white}18{green}]{white} " + option_18.ljust(30)[:30].replace("-", " ")
-option_19_txt = f"{green}[{white}19{green}]{white} " + option_19.ljust(30)[:30].replace("-", " ")
+option_10_txt = f"{red}[{white}10{red}]{white} " + option_10.ljust(30)[:30].replace("-", " ")
+option_11_txt = f"{red}[{white}11{red}]{white} " + option_11.ljust(30)[:30].replace("-", " ")
+option_12_txt = f"{red}[{white}12{red}]{white} " + option_12.ljust(30)[:30].replace("-", " ")
+option_13_txt = f"{red}[{white}13{red}]{white} " + option_13.ljust(30)[:30].replace("-", " ")
+option_14_txt = f"{red}[{white}14{red}]{white} " + option_14.ljust(30)[:30].replace("-", " ")
+option_15_txt = f"{red}[{white}15{red}]{white} " + option_15.ljust(30)[:30].replace("-", " ")
+option_16_txt = f"{red}[{white}16{red}]{white} " + option_16.ljust(30)[:30].replace("-", " ")
+option_17_txt = f"{red}[{white}17{red}]{white} " + option_17.ljust(30)[:30].replace("-", " ")
+option_18_txt = f"{red}[{white}18{red}]{white} " + option_18.ljust(30)[:30].replace("-", " ")
+option_19_txt = f"{red}[{white}19{red}]{white} " + option_19.ljust(30)[:30].replace("-", " ")
 
-option_20_txt = f"{green}[{white}20{green}]{white} " + option_20.ljust(30)[:30].replace("-", " ")
-option_21_txt = f"{green}[{white}21{green}]{white} " + option_21.ljust(30)[:30].replace("-", " ")
-option_22_txt = f"{green}[{white}22{green}]{white} " + option_22.ljust(30)[:30].replace("-", " ")
-option_23_txt = f"{green}[{white}23{green}]{white} " + option_23.ljust(30)[:30].replace("-", " ")
-option_24_txt = f"{green}[{white}24{green}]{white} " + option_24.ljust(30)[:30].replace("-", " ")
-option_25_txt = f"{green}[{white}25{green}]{white} " + option_25.ljust(30)[:30].replace("-", " ")
-option_26_txt = f"{green}[{white}26{green}]{white} " + option_26.ljust(30)[:30].replace("-", " ")
-option_27_txt = f"{green}[{white}27{green}]{white} " + option_27.ljust(30)[:30].replace("-", " ")
-option_28_txt = f"{green}[{white}28{green}]{white} " + option_28.ljust(30)[:30].replace("-", " ")
-option_29_txt = f"{green}[{white}29{green}]{white} " + option_29.ljust(30)[:30].replace("-", " ")
+option_20_txt = f"{red}[{white}20{red}]{white} " + option_20.ljust(30)[:30].replace("-", " ")
+option_21_txt = f"{red}[{white}21{red}]{white} " + option_21.ljust(30)[:30].replace("-", " ")
+option_22_txt = f"{red}[{white}22{red}]{white} " + option_22.ljust(30)[:30].replace("-", " ")
+option_23_txt = f"{red}[{white}23{red}]{white} " + option_23.ljust(30)[:30].replace("-", " ")
+option_24_txt = f"{red}[{white}24{red}]{white} " + option_24.ljust(30)[:30].replace("-", " ")
+option_25_txt = f"{red}[{white}25{red}]{white} " + option_25.ljust(30)[:30].replace("-", " ")
+option_26_txt = f"{red}[{white}26{red}]{white} " + option_26.ljust(30)[:30].replace("-", " ")
+option_27_txt = f"{red}[{white}27{red}]{white} " + option_27.ljust(30)[:30].replace("-", " ")
+option_28_txt = f"{red}[{white}28{red}]{white} " + option_28.ljust(30)[:30].replace("-", " ")
+option_29_txt = f"{red}[{white}29{red}]{white} " + option_29.ljust(30)[:30].replace("-", " ")
 
-option_30_txt = f"{green}[{white}30{green}]{white} " + option_30.ljust(30)[:30].replace("-", " ")
-option_31_txt = f"{green}[{white}31{green}]{white} " + option_31.ljust(30)[:30].replace("-", " ")
-option_32_txt = f"{green}[{white}32{green}]{white} " + option_32.ljust(30)[:30].replace("-", " ")
-option_33_txt = f"{green}[{white}33{green}]{white} " + option_33.ljust(30)[:30].replace("-", " ")
-option_34_txt = f"{green}[{white}34{green}]{white} " + option_34.ljust(30)[:30].replace("-", " ")
-option_35_txt = f"{green}[{white}35{green}]{white} " + option_35.ljust(30)[:30].replace("-", " ")
-option_36_txt = f"{green}[{white}36{green}]{white} " + option_36.ljust(30)[:30].replace("-", " ")
-option_37_txt = f"{green}[{white}37{green}]{white} " + option_37.ljust(30)[:30].replace("-", " ")
-option_38_txt = f"{green}[{white}38{green}]{white} " + option_38.ljust(30)[:30].replace("-", " ")
-option_39_txt = f"{green}[{white}39{green}]{white} " + option_39.ljust(30)[:30].replace("-", " ")
+option_30_txt = f"{red}[{white}30{red}]{white} " + option_30.ljust(30)[:30].replace("-", " ")
+option_31_txt = f"{red}[{white}31{red}]{white} " + option_31.ljust(30)[:30].replace("-", " ")
+option_32_txt = f"{red}[{white}32{red}]{white} " + option_32.ljust(30)[:30].replace("-", " ")
+option_33_txt = f"{red}[{white}33{red}]{white} " + option_33.ljust(30)[:30].replace("-", " ")
+option_34_txt = f"{red}[{white}34{red}]{white} " + option_34.ljust(30)[:30].replace("-", " ")
+option_35_txt = f"{red}[{white}35{red}]{white} " + option_35.ljust(30)[:30].replace("-", " ")
+option_36_txt = f"{red}[{white}36{red}]{white} " + option_36.ljust(30)[:30].replace("-", " ")
+option_37_txt = f"{red}[{white}37{red}]{white} " + option_37.ljust(30)[:30].replace("-", " ")
+option_38_txt = f"{red}[{white}38{red}]{white} " + option_38.ljust(30)[:30].replace("-", " ")
+option_39_txt = f"{red}[{white}39{red}]{white} " + option_39.ljust(30)[:30].replace("-", " ")
 
-option_40_txt = f"{green}[{white}40{green}]{white} " + option_40.ljust(30)[:30].replace("-", " ")
-option_41_txt = f"{green}[{white}41{green}]{white} " + option_41.ljust(30)[:30].replace("-", " ")
-option_42_txt = f"{green}[{white}42{green}]{white} " + option_42.ljust(30)[:30].replace("-", " ")
-option_43_txt = f"{green}[{white}43{green}]{white} " + option_43.ljust(30)[:30].replace("-", " ")
-option_44_txt = f"{green}[{white}44{green}]{white} " + option_44.ljust(30)[:30].replace("-", " ")
-option_45_txt = f"{green}[{white}45{green}]{white} " + option_45.ljust(30)[:30].replace("-", " ")
-option_46_txt = f"{green}[{white}46{green}]{white} " + option_46.ljust(30)[:30].replace("-", " ")
-option_47_txt = f"{green}[{white}47{green}]{white} " + option_47.ljust(30)[:30].replace("-", " ")
-option_48_txt = f"{green}[{white}48{green}]{white} " + option_48.ljust(30)[:30].replace("-", " ")
-option_49_txt = f"{green}[{white}49{green}]{white} " + option_49.ljust(30)[:30].replace("-", " ")
+option_40_txt = f"{red}[{white}40{red}]{white} " + option_40.ljust(30)[:30].replace("-", " ")
+option_41_txt = f"{red}[{white}41{red}]{white} " + option_41.ljust(30)[:30].replace("-", " ")
+option_42_txt = f"{red}[{white}42{red}]{white} " + option_42.ljust(30)[:30].replace("-", " ")
+option_43_txt = f"{red}[{white}43{red}]{white} " + option_43.ljust(30)[:30].replace("-", " ")
+option_44_txt = f"{red}[{white}44{red}]{white} " + option_44.ljust(30)[:30].replace("-", " ")
+option_45_txt = f"{red}[{white}45{red}]{white} " + option_45.ljust(30)[:30].replace("-", " ")
+option_46_txt = f"{red}[{white}46{red}]{white} " + option_46.ljust(30)[:30].replace("-", " ")
+option_47_txt = f"{red}[{white}47{red}]{white} " + option_47.ljust(30)[:30].replace("-", " ")
+option_48_txt = f"{red}[{white}48{red}]{white} " + option_48.ljust(30)[:30].replace("-", " ")
+option_49_txt = f"{red}[{white}49{red}]{white} " + option_49.ljust(30)[:30].replace("-", " ")
 
-option_50_txt = f"{green}[{white}50{green}]{white} " + option_50.ljust(30)[:30].replace("-", " ")
-option_51_txt = f"{green}[{white}51{green}]{white} " + option_51.ljust(30)[:30].replace("-", " ")
-option_52_txt = f"{green}[{white}52{green}]{white} " + option_52.ljust(30)[:30].replace("-", " ")
-option_53_txt = f"{green}[{white}53{green}]{white} " + option_53.ljust(30)[:30].replace("-", " ")
-option_54_txt = f"{green}[{white}54{green}]{white} " + option_54.ljust(30)[:30].replace("-", " ")
-option_55_txt = f"{green}[{white}55{green}]{white} " + option_55.ljust(30)[:30].replace("-", " ")
-option_56_txt = f"{green}[{white}56{green}]{white} " + option_56.ljust(30)[:30].replace("-", " ")
-option_57_txt = f"{green}[{white}57{green}]{white} " + option_57.ljust(30)[:30].replace("-", " ")
-option_58_txt = f"{green}[{white}58{green}]{white} " + option_58.ljust(30)[:30].replace("-", " ")
-option_59_txt = f"{green}[{white}59{green}]{white} " + option_59.ljust(30)[:30].replace("-", " ")
+option_50_txt = f"{red}[{white}50{red}]{white} " + option_50.ljust(30)[:30].replace("-", " ")
+option_51_txt = f"{red}[{white}51{red}]{white} " + option_51.ljust(30)[:30].replace("-", " ")
+option_52_txt = f"{red}[{white}52{red}]{white} " + option_52.ljust(30)[:30].replace("-", " ")
+option_53_txt = f"{red}[{white}53{red}]{white} " + option_53.ljust(30)[:30].replace("-", " ")
+option_54_txt = f"{red}[{white}54{red}]{white} " + option_54.ljust(30)[:30].replace("-", " ")
+option_55_txt = f"{red}[{white}55{red}]{white} " + option_55.ljust(30)[:30].replace("-", " ")
+option_56_txt = f"{red}[{white}56{red}]{white} " + option_56.ljust(30)[:30].replace("-", " ")
+option_57_txt = f"{red}[{white}57{red}]{white} " + option_57.ljust(30)[:30].replace("-", " ")
+option_58_txt = f"{red}[{white}58{red}]{white} " + option_58.ljust(30)[:30].replace("-", " ")
+option_59_txt = f"{red}[{white}59{red}]{white} " + option_59.ljust(30)[:30].replace("-", " ")
 
-option_60_txt = f"{green}[{white}60{green}]{white} " + option_60.ljust(30)[:30].replace("-", " ")
-option_61_txt = f"{green}[{white}61{green}]{white} " + option_61.ljust(30)[:30].replace("-", " ")
-option_62_txt = f"{green}[{white}62{green}]{white} " + option_62.ljust(30)[:30].replace("-", " ")
-option_63_txt = f"{green}[{white}63{green}]{white} " + option_63.ljust(30)[:30].replace("-", " ")
-option_64_txt = f"{green}[{white}64{green}]{white} " + option_64.ljust(30)[:30].replace("-", " ")
-option_65_txt = f"{green}[{white}65{green}]{white} " + option_65.ljust(30)[:30].replace("-", " ")
-option_66_txt = f"{green}[{white}66{green}]{white} " + option_66.ljust(30)[:30].replace("-", " ")
-option_67_txt = f"{green}[{white}67{green}]{white} " + option_67.ljust(30)[:30].replace("-", " ")
-option_68_txt = f"{green}[{white}68{green}]{white} " + option_68.ljust(30)[:30].replace("-", " ")
-option_69_txt = f"{green}[{white}69{green}]{white} " + option_69.ljust(30)[:30].replace("-", " ")
+option_60_txt = f"{red}[{white}60{red}]{white} " + option_60.ljust(30)[:30].replace("-", " ")
+option_61_txt = f"{red}[{white}61{red}]{white} " + option_61.ljust(30)[:30].replace("-", " ")
+option_62_txt = f"{red}[{white}62{red}]{white} " + option_62.ljust(30)[:30].replace("-", " ")
+option_63_txt = f"{red}[{white}63{red}]{white} " + option_63.ljust(30)[:30].replace("-", " ")
+option_64_txt = f"{red}[{white}64{red}]{white} " + option_64.ljust(30)[:30].replace("-", " ")
+option_65_txt = f"{red}[{white}65{red}]{white} " + option_65.ljust(30)[:30].replace("-", " ")
+option_66_txt = f"{red}[{white}66{red}]{white} " + option_66.ljust(30)[:30].replace("-", " ")
+option_67_txt = f"{red}[{white}67{red}]{white} " + option_67.ljust(30)[:30].replace("-", " ")
+option_68_txt = f"{red}[{white}68{red}]{white} " + option_68.ljust(30)[:30].replace("-", " ")
+option_69_txt = f"{red}[{white}69{red}]{white} " + option_69.ljust(30)[:30].replace("-", " ")
 
-option_70_txt = f"{green}[{white}70{green}]{white} " + option_70.ljust(30)[:30].replace("-", " ")
-option_71_txt = f"{green}[{white}71{green}]{white} " + option_71.ljust(30)[:30].replace("-", " ")
-option_72_txt = f"{green}[{white}72{green}]{white} " + option_72.ljust(30)[:30].replace("-", " ")
-option_73_txt = f"{green}[{white}73{green}]{white} " + option_73.ljust(30)[:30].replace("-", " ")
-option_74_txt = f"{green}[{white}74{green}]{white} " + option_74.ljust(30)[:30].replace("-", " ")
-option_75_txt = f"{green}[{white}75{green}]{white} " + option_75.ljust(30)[:30].replace("-", " ")
-option_76_txt = f"{green}[{white}76{green}]{white} " + option_76.ljust(30)[:30].replace("-", " ")
-option_77_txt = f"{green}[{white}77{green}]{white} " + option_77.ljust(30)[:30].replace("-", " ")
-option_78_txt = f"{green}[{white}78{green}]{white} " + option_78.ljust(30)[:30].replace("-", " ")
-option_79_txt = f"{green}[{white}79{green}]{white} " + option_79.ljust(30)[:30].replace("-", " ")
+option_70_txt = f"{red}[{white}70{red}]{white} " + option_70.ljust(30)[:30].replace("-", " ")
+option_71_txt = f"{red}[{white}71{red}]{white} " + option_71.ljust(30)[:30].replace("-", " ")
+option_72_txt = f"{red}[{white}72{red}]{white} " + option_72.ljust(30)[:30].replace("-", " ")
+option_73_txt = f"{red}[{white}73{red}]{white} " + option_73.ljust(30)[:30].replace("-", " ")
+option_74_txt = f"{red}[{white}74{red}]{white} " + option_74.ljust(30)[:30].replace("-", " ")
+option_75_txt = f"{red}[{white}75{red}]{white} " + option_75.ljust(30)[:30].replace("-", " ")
+option_76_txt = f"{red}[{white}76{red}]{white} " + option_76.ljust(30)[:30].replace("-", " ")
+option_77_txt = f"{red}[{white}77{red}]{white} " + option_77.ljust(30)[:30].replace("-", " ")
+option_78_txt = f"{red}[{white}78{red}]{white} " + option_78.ljust(30)[:30].replace("-", " ")
+option_79_txt = f"{red}[{white}79{red}]{white} " + option_79.ljust(30)[:30].replace("-", " ")
 
-option_back_txt = option_back + f" {green}[{white}B{green}]{white}"
-option_next_txt = option_next + f" {green}[{white}N{green}]{white}"
-option_site_txt = f"{green}[{white}S{green}]{white} " + option_site
-option_info_txt =  f"{green}[{white}I{green}]{white} " + option_info
+option_back_txt = option_back + f" {red}[{white}B{red}]{white}"
+option_next_txt = option_next + f" {red}[{white}N{red}]{white}"
+option_site_txt = f"{red}[{white}S{red}]{white} " + option_site
+option_info_txt =  f"{red}[{white}I{red}]{white} " + option_info
 
 menu1 = f""" ┌─ {option_info_txt}                                                                                               {option_next_txt} ─┐
  ├─ {option_site_txt} ┌─────────────────┐                        ┌───────┐                           ┌───────────┐            │
@@ -227,7 +227,7 @@ menu2 = f""" ┌─ {option_info_txt}                                           
    └─ {option_30_txt                    }├─ {option_31_txt                    }├─ {option_40_txt}
            ├─ Stealer                    ├─ {option_32_txt                    }├─ {option_41_txt}
            ├─ Grabber                    ├─ {option_33_txt                    }├─ {option_42_txt}
-           └─ Malware                    └─ {option_34_txt                    }└─ {option_43_txt}                                     
+           └─ Malware                    └─ {option_34_txt                    }└─ {option_43_txt}                                    
 
 
 
@@ -261,7 +261,7 @@ def Update():
          webbrowser.open(f"https://{github_tool}")
          colorama.init()
          input(f"{BEFORE + current_time_hour() + AFTER} {INFO} Please install the new version of the tool: {white + version_tool + red} -> {white + new_version} ")
-         popup_version = f"{green}New Version: {white + version_tool + red} -> {white + new_version}"
+         popup_version = f"{red}New Version: {white + version_tool + red} -> {white + new_version}"
          colorama.deinit()
          Clear()
    except: pass
@@ -283,13 +283,12 @@ def Menu():
       menu_number = "1"
 
    banner = f"""{popup_version}                                                                                      
-                        ██████╗ ███████╗██╗   ██╗██╗   ██╗██╗  ██╗
-                        ██╔══██╗██╔════╝╚██╗ ██╔╝██║   ██║╚██╗██╔╝
-                        ██████╔╝█████╗   ╚████╔╝ ██║   ██║ ╚███╔╝ 
-                        ██╔══██╗██╔══╝    ╚██╔╝  ██║   ██║ ██╔██╗ 
-                        ██║  ██║███████╗   ██║   ╚██████╔╝██╔╝ ██╗
-                        ╚═╝  ╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
-                                          
+                  ██████╗ ███████╗██╗   ██╗██╗   ██╗██╗  ██╗
+                  ██╔══██╗██╔════╝╚██╗ ██╔╝██║   ██║╚██╗██╔╝
+                  ██████╔╝█████╗   ╚████╔╝ ██║   ██║ ╚███╔╝ 
+                  ██╔══██╗██╔══╝    ╚██╔╝  ██║   ██║ ██╔██╗ 
+                  ██║  ██║███████╗   ██║   ╚██████╔╝██╔╝ ██╗
+                  ╚═╝  ╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
                                                                   
                                            {white}{github_tool}
 {menu}"""
@@ -342,7 +341,7 @@ while True:
                if os.path.exists(zip_file_path):
                   print(f"{BEFORE + current_time_hour() + AFTER} {INFO} Decompression of the encrypted file: {white}Program\\FileDetectedByAntivirus\\Password(reyux).zip")
                   with pyzipper.AESZipFile(zip_file_path) as zf:
-                     zf.pwd = b'redtiger'
+                     zf.pwd = b'reyux'
                      zf.extractall(output)
                   time.sleep(3)
                else:
