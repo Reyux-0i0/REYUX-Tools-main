@@ -5,7 +5,7 @@
 <h1 align="center">Multi-Tools</h1>
 
 <p align="center">
-   <a href="https://t.me/reyuxsupport">Telegram</a> ・ <a href="https://guns.lol/REYUX">GunsLol</a> ・ <a href="https://www.trustpilot.com/review/reyux.shop">Reviews</a>
+   <a href="https://t.me/reyuxsupport">Telegram</a> ・ <a href="https://guns.lol/reyuxexe">GunsLol</a> ・ <a href="">Reviews</a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p>
   
-  - Developed in <strong>Python</strong>, by <a href="https://guns.lol/REYUX">Loxy0dev</a><br>
+  - Developed in <strong>Python</strong>, by <a href="https://guns.lol/REYUX">@reyuxexe</a><br>
   - Tool in <strong>English</strong>.<br>
   - Available on <strong>Windows</strong> and <strong>Linux</strong>.<br>
   - <strong>No malware</strong> or <strong>backdoor</strong>.<br>
@@ -59,11 +59,11 @@
 │   └── Site                               : Access the official website or related REYUX Tools link.
 │
 ├── 💰 - Paid
-│   ├── Python Obfuscator (Premium)        : Makes Python code unreadable for protection.
-│   ├── Discord Rat Builder (Premium)      : [Legal use only] Remote access to a system via Discord.
-│   ├── Ransomware Builder (Premium)       : [Legal use only] Custom ransomware creation tool to encrypt files and demand payment.
-│   ├── Website DoS (Premium)              : Launches a DoS attack on a website (for legal testing).
-│   └── Proxy Scraper (Premium)            : Automatically retrieves fresh proxy lists.
+│   ├── Python Obfuscator         : Makes Python code unreadable for protection.
+│   ├── Discord Rat Builder (FREE)      : [Legal use only] Remote access to a system via Discord.
+│   ├── Ransomware Builder (FREE)       : [Legal use only] Custom ransomware creation tool to encrypt files and demand payment.
+│   ├── Website DoS (FREE)              : Launches a DoS attack on a website (for legal testing).
+│   └── Proxy Scraper (FREE)            : Automatically retrieves fresh proxy lists.
 │
 ├── 🕵️‍♂️ - Network Scanner
 │   ├── Website Vulnerability Scanner      : Scans a website for vulnerabilities.
@@ -207,17 +207,7 @@ Or
 <br><br>
 </p>
 
-<h1 align="center">Donation</h1>
 
-<p>
-  
-  <strong>Bitcoin Adress:</strong>
-  ``` 
-bc1q94263paqr9umagpqqafk6kc6wvr3ug2dpw5t7x
-  ```
-  <strong>Litecoin Adress:</strong>
-  ```
-LWyHjLVM4YCqwyVFSXJfidYbGuakn5C8rV
-  ```
+
 
 </p>
